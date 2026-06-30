@@ -1,3 +1,13 @@
+/*
+Calculadora simples
+Crie uma função calcular() que receba:
+- Número 1
+- Número 2
+- Operação (+, -, *, /)
+Mostre o resultado.
+Desafio: tratar divisão por zero.
+*/
+
 #include <stdio.h>
 
 float soma(float x, float y){
