@@ -1,5 +1,5 @@
 /*
-Calculadora simples
+3. Calculadora simples
 Crie uma função calcular() que receba:
 - Número 1
 - Número 2
